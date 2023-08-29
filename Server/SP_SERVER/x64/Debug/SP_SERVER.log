@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  FrameWork.cpp
+C:\Users\user\Desktop\졸업작품\Server\SP_SERVER\FrameWork.cpp(83,7): error C3861: 'is_npc': 식별자를 찾을 수 없습니다.
+  IocpMain.cpp
+C:\Users\user\Desktop\졸업작품\Server\SP_SERVER\IocpMain.cpp(142,1): fatal  error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  SP_SERVER.cpp
+  코드를 생성하고 있습니다...
